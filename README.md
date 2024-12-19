@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://user-images.githubusercontent.com/placeholder-banner" alt="Mysterious Banner" width="600px"> <p><em>"Only the curious will find the way."</em></p> </div>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdpaGp0OWY5aGNhbHR1Y2VidmRubnMzd2E2NDBmbms3eG9kbnV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Mysterious Banner" width="600px"> <p><em>"Only the curious will find the way."</em></p> </div>
 <div align="center">
   <h1>👋 Greetings, Wanderer!</h1>
   <p><em>Welcome to a realm where mystery meets creativity.</em></p>
