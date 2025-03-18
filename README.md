@@ -31,3 +31,40 @@
   *I might exist somewhere between here and nowhere.*  
 
 ---
+
+<div align="center">
+  
+  ## 🚀 GitHub Stats
+  
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vorthrak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vorthrak's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+  | ------------- | ------------- |
+
+  <br/>
+
+  ## 🔥 GitHub Streak Stats
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=tokyonight&hide_border=true" alt="Vorthrak's Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  ## 🏆 GitHub Trophies
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vorthrak&theme=onedark&no-frame=true&column=4" alt="Vorthrak's GitHub Trophies" />
+  </a>
+
+  <br/><br/>
+
+  ## 📊 Activity Graph
+  
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=tokyo-night&hide_border=true" alt="Vorthrak's Activity Graph" />
+  </a>
+
+</div>
+
+
+
+
