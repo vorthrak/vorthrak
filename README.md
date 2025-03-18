@@ -1,6 +1,8 @@
 <div align="center" style="background-color: #0a0a0a; color: #b3b3b3;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;The+Shadows+Whisper+Secrets...;Embrace+the+Dark+&+Unseen...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;Where+Shadows+Whisper+Their+Secrets...;Embrace+the+Darkness+and+Unseen...;Let+the+Mysteries+Unfold...)
+
+
 
 ---
 
