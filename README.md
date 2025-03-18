@@ -67,7 +67,8 @@
 
 ## 🏆 Kontribusi Real-time  
 
-![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/snake.svg)
+<img src="https://github.com/vorthrak/vorthrak/blob/main/snake.svg" width="100%" style="filter: brightness(0.8) contrast(1.2);">
+
 
 
 
