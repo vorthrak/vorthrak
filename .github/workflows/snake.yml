@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v2
         with:
-          github_user_name: vorhrak
+          github_user_name: vorthrak
           outputs: dist/snake.svg
 
       - name: Push to GitHub
