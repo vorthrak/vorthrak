@@ -67,9 +67,7 @@
 
 ## 🏆 Kontribusi Real-time  
 
-<div style="background-color: black; padding: 10px;">
-  <img src="https://github.com/vorthrak/vorthrak/blob/main/snake.svg" width="100%" style="filter: brightness(0.6) contrast(1.5) drop-shadow(2px 2px 5px rgba(255, 255, 255, 0.2));">
-</div>
+![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/snake.svg)
 
 
 
