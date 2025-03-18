@@ -67,7 +67,8 @@
 
 ## 🏆 Kontribusi Real-time  
 
-![GitHub Contribution Grid Snake](https://github.com/vorhtrak/vorthrak/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vorthrak/vorthrak/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
