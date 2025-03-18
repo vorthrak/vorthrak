@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;Where+Shadows+Whisper+Their+Secrets...;Embrace+the+Darkness+and+Unseen...;Let+the+Mysteries+Unfold...)
 
-
-
 ---
 
 ## ⚰️ **Whispers from the Abyss**
@@ -76,38 +74,6 @@
   <summary style="color: #8A2BE2; font-weight: bold; font-size: 1.2em;">🕷️ **Click to Reveal the Abyss**</summary>
   <p style="color: #8A2BE2; font-style: italic;">🕯️ **The void watches... Your every move, every whisper, is consumed by it. No one escapes the gaze of the dark.**</p>
 </details>
-
----
-
-## ⚡ **Lurking Shadows and Secrets**
-
-_You have dared to glimpse the truth, but the price is steep. The void holds you now, and there is no returning. The shadows speak your name, and only the eternal night can hear you now._
-
----
-
-## ⚔️ **Symbols of the Damned**
-
-### **🔪 The End of Light**
-The light has been devoured, and only the dark remains to speak.
-
-### **👁️ The Watchful Gaze**
-The eye never blinks, always watching from the endless shadows.
-
-### **⛓️ The Curse of Time**
-Time does not pass; it stands still, like a decaying corpse beneath the surface.
-
----
-
-## 🦇 **Unholy Emblems**
-
-### **🕷️ The Web of Souls**
-You are caught in the web of fate, there is no escape.
-
-### **🖤 The Heart of Darkness**
-The soul blackened, pierced by the void.
-
-### **⚰️ The Final Rest**
-Where light no longer exists, only eternal shadows remain.
 
 ---
 
