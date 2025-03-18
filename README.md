@@ -1,55 +1,112 @@
-<div align="center">
+<div align="center" style="background-color: #0a0a0a; color: #b3b3b3;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Vorthrak's+Realm;Embrace+the+Unknown;Decrypt+the+Secrets)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;The+Shadows+Whisper+Secrets...;Embrace+the+Dark+&+Unseen...)
 
 ---
 
-## 🜏 Into the Abyss
+## ⚰️ **Whispers from the Abyss**
 
- _"The unknown is not to be feared; it is to be mastered."_  
+ _"The darkness does not consume you; it unveils the cursed truths that should never be known."_  
   **Vorthrak**
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdpaGp0OWY5aGNhbHR1Y2VidmRubnMzd2E2NDBmbms3eG9kbnV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Mysterious Banner" width="600px">
+<img src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Mysterious Banner" width="600px">
 
-<p><em>"Curiosity is the gateway to revelation."</em></p>
+<p style="color: #8A2BE2; font-style: italic;">_"Beyond the void, only forgotten souls wander... forever lost in time."_</p>
 
 ---
 
-## ⚡ GitHub Realm
+## 🦇 **Welcome, Wanderer of the Lost Realms**
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vorthrak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+ _You have stepped beyond the threshold, where light dies and darkness devours all. Your soul now belongs to the Abyss._  
+ _Here, the eternal shadows reign, and all that you knew is now undone._
+
+---
+
+## ⚒️ **The Crypt of Forbidden Code**
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vorthrak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" /></a> |
 | ------------- | ------------- |
 
-## 🔥 Persistence Through Time
+## 🔥 **Eternal Markings of the Forsaken**
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=tokyonight&hide_border=true" alt="Vorthrak's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=dark&hide_border=true&background=0a0a0a&text_color=8A2BE2&border=8A2BE2" alt="Vorthrak's Streak Stats" />
 </a>
 
-## 🏆 Legacy & Triumphs
+## ⚔️ **Trophies of the Damned**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vorthrak&theme=onedark&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vorthrak&theme=dracula&no-frame=true&column=4&background=0a0a0a&color=8A2BE2" />
 </a>
 
-## 📊 Traces of Creation
+## 🕯️ **Traces of the Forgotten**
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=dracula&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" />
 </a>
 
 ---
 
-## 🏆 Echoes of Contribution  
+## 💀 **Echoes from the Void**  
 ![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/snake.svg)
 
 ---
 
-## 📜 Whisper of the Day
+## 📜 **The Final Whisper of the Void**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
+## 📢 **Omens from the Abyss**
+
+![GitHub followers](https://img.shields.io/github/followers/vorthrak?style=flat-square&color=8A2BE2)
+![GitHub stars](https://img.shields.io/github/stars/vorthrak?style=flat-square&color=8A2BE2)
+![Visitor Count](https://komarev.com/ghpvc/?username=vorthrak&color=0a0a0a&style=flat-square)
+
+---
+
+## 🕸️ **Unveiling the Hidden Truths**
+
+<details>
+  <summary style="color: #8A2BE2; font-weight: bold; font-size: 1.2em;">🕷️ **Click to Reveal the Abyss**</summary>
+  <p style="color: #8A2BE2; font-style: italic;">🕯️ **The void watches... Your every move, every whisper, is consumed by it. No one escapes the gaze of the dark.**</p>
+</details>
+
+---
+
+## ⚡ **Lurking Shadows and Secrets**
+
+_You have dared to glimpse the truth, but the price is steep. The void holds you now, and there is no returning. The shadows speak your name, and only the eternal night can hear you now._
+
+---
+
+## ⚔️ **Symbols of the Damned**
+
+### **🔪 The End of Light**
+The light has been devoured, and only the dark remains to speak.
+
+### **👁️ The Watchful Gaze**
+The eye never blinks, always watching from the endless shadows.
+
+### **⛓️ The Curse of Time**
+Time does not pass; it stands still, like a decaying corpse beneath the surface.
+
+---
+
+## 🦇 **Unholy Emblems**
+
+### **🕷️ The Web of Souls**
+You are caught in the web of fate, there is no escape.
+
+### **🖤 The Heart of Darkness**
+The soul blackened, pierced by the void.
+
+### **⚰️ The Final Rest**
+Where light no longer exists, only eternal shadows remain.
+
+---
+
+</div>
