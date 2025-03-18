@@ -67,7 +67,7 @@
 
 ## 🏆 Kontribusi Real-time  
 
-![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/dist/snake.svg)
+![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/snake.svg)
 
 
 
