@@ -1,0 +1,21 @@
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Menjalankan setiap hari pada tengah malam UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: vorhrak
+          outputs: dist/snake.svg
+
+      - name: Push to GitHub
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
