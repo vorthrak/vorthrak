@@ -14,13 +14,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake Grid
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: vorthrak
           outputs: dist/snake.svg
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
