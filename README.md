@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/vorthrak)
+  [![Spotify](https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31szdg5zh7nbmf7ah3yfeicnnbpy)
 </div>
 
 <div align="center" style="background-color: #0a0a0a; color: #b3b3b3; padding: 20px;">
