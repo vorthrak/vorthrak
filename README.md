@@ -1,3 +1,9 @@
+<form action="https://www.google.com/search" method="get">
+  <input type="text" name="q" placeholder="Cari di Google">
+  <input type="submit" value="Search">
+</form>
+
+
 &nbsp;<div align="center">
   [![Spotify](https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31szdg5zh7nbmf7ah3yfeicnnbpy)
 </div>
