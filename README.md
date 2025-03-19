@@ -50,7 +50,7 @@
 ---
 
 ## 💀 **Echoes from the Void**  
-![Snake animation](https://github.com/vorthrak/vorthrak/blob/main/snake.svg)
+![Snake animation](https://github.com/vorthrak/vorthrak/blob/output/github-snake-dark.svg)
 
 ---
 
