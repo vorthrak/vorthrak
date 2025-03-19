@@ -5,6 +5,13 @@ function getCurrentTime() {
     return new Date().toLocaleString("id-ID", options);
 }
 
-const timeString = `### 🕒 Waktu Sekarang: ${getCurrentTime()} WIB`;
+const readmePath = "README.md";
+const readmeContent = fs.readFileSync(readmePath, "utf8");
 
-fs.writeFileSync("TIME.md", timeString);
+// Cari dan ganti bagian waktu di README
+const updatedReadme = readmeContent.replace(
+    /### 🕒 Waktu Sekarang:.+/,
+    `### 🕒 Waktu Sekarang: ${getCurrentTime()} WIB`
+);
+
+fs.writeFileSync(readmePath, updatedReadme);
