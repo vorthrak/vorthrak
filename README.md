@@ -88,6 +88,7 @@ _Here, the eternal shadows reign, and all that you knew is now undone._
 ![GitHub followers](https://img.shields.io/github/followers/vorthrak?style=flat-square&color=8A2BE2)
 ![GitHub stars](https://img.shields.io/github/stars/vorthrak?style=flat-square&color=8A2BE2)
 ![Visitor Count](https://komarev.com/ghpvc/?username=vorthrak&color=0a0a0a&style=flat-square)
+[![GitHub vorthrak](https://img.shields.io/github/followers/vorthrak?label=follow&style=social&cacheSeconds=86400)](https://github.com/vorthrak)
 
 ---
 
