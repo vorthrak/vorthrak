@@ -64,7 +64,7 @@
 <h2 align="center">🔥 Eternal Markings of the Forsaken</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=dark&hide_border=true&background=0a0a0a&text_color=8A2BE2&border=8A2BE2" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=dark&hide_border=true&background=0a0a0a&text_color=8A2BE2&border=8A2BE2" width="50%">
 </div>
 
 <h2 align="center">⚔️ Trophies of the Damned</h2>
