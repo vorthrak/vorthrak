@@ -18,9 +18,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TFwTq2yhQYtV3G1FOk/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/TFwTq2yhQYtV3G1FOk/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/DwMoPLUvxl7adTiuAs/giphy.gif" width="500">
-  <img src="https://media.giphy.com/media/CtgiDReeVqg9wEWnI4/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/CtgiDReeVqg9wEWnI4/giphy.gif" width="200">
 </div>
 
 <h2 align="center">⚰️ Whispers from the Abyss ⚰️</h2>
@@ -28,9 +28,9 @@
 <p align="center"><b>Vorthrak</b></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/rrjczqTko1TvXwzZN5/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/rrjczqTko1TvXwzZN5/giphy.gif" width="190">
   <img src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.webp" width="500">
-  <img src="https://media.giphy.com/media/HBYSRXQs7KhoKuSr8a/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/HBYSRXQs7KhoKuSr8a/giphy.gif" width="190">
 </div>
 
 <h2 align="center">🦇 Welcome, Wanderer of the Lost Realms 🦇</h2>
