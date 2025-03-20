@@ -1,3 +1,25 @@
+<img src="https://media.giphy.com/media/kaIk3E0743ImDDFGJu/giphy.gif?cid=ecf05e478mrnq3i4wocg6tx39qauj3p9qbh4xf48z65pe0hm&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img src="https://media.giphy.com/media/aeKRSmORI8OBiYExvF/giphy.gif?cid=ecf05e47vrhoh0dota5acrfg3s02m9k5ivh7h5ntvdr4mmay&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif?cid=ecf05e47fyeboozfl58tferaa1eb5xvv00xyptlaco5fv7bt&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img src="https://media.giphy.com/media/bNDZKo4UGsNBebZ2jz/giphy.gif?cid=ecf05e47fyeboozfl58tferaa1eb5xvv00xyptlaco5fv7bt&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img src="https://media.giphy.com/media/TFwTq2yhQYtV3G1FOk/giphy.gif?cid=ecf05e47037aeefb6la8jddo3vhy24qy8uff73ahox0kdkv7&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img src="https://media.giphy.com/media/rrjczqTko1TvXwzZN5/giphy.gif?cid=ecf05e47pz2cxug1hggk8umwy1iei3f4nm80aoc7wjdoqxg7&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
+
+
+
+https://media.giphy.com/media/rrjczqTko1TvXwzZN5/giphy.gif?cid=ecf05e47pz2cxug1hggk8umwy1iei3f4nm80aoc7wjdoqxg7&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/jcCA12CugVOMzSqeLx/giphy.gif?cid=ecf05e47pz2cxug1hggk8umwy1iei3f4nm80aoc7wjdoqxg7&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/HBYSRXQs7KhoKuSr8a/giphy.gif?cid=ecf05e47pz2cxug1hggk8umwy1iei3f4nm80aoc7wjdoqxg7&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/xCSMAYB9m50YTmn8QK/giphy.gif?cid=ecf05e47pz2cxug1hggk8umwy1iei3f4nm80aoc7wjdoqxg7&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNyNGFkbDBpNXcxZ2phcnYwcW1hMGNrZGxlaGM4YTdmc3Q3Y2Y3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W0cCu4aMtRG3djyzJz/giphy.gif
+https://media.giphy.com/media/DwMoPLUvxl7adTiuAs/giphy.gif?cid=790b7611mcr4adl0i5w1gjarv0qma0ckdlehc8a7fst7cf7u&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/XHLR8gpEKa3KiPxvs4/giphy.gif?cid=ecf05e47b4vly5asgy1llzaecty11qsx8t45aoeh9dk1ia8v&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/CtgiDReeVqg9wEWnI4/giphy.gif?cid=ecf05e47b4vly5asgy1llzaecty11qsx8t45aoeh9dk1ia8v&ep=v1_stickers_search&rid=giphy.gif&ct=s
+https://media.giphy.com/media/JG6mdbVIu5BeGKgpDV/giphy.gif?cid=790b76111e3p26ozum4f9b8gp2g1gup8j0wy243cb9io5h7s&ep=v1_stickers_search&rid=giphy.gif&ct=s
+
+
+
 &nbsp;<div align="center">
   [![Spotify](https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31szdg5zh7nbmf7ah3yfeicnnbpy)
 </div>
@@ -15,7 +37,9 @@
 _"The darkness does not consume you; it unveils the cursed truths that should never be known."_  
 **Vorthrak**
 
----
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNncWNsczFkNXUzeXQ1dmd6cjFoZXRhaXQ2ZjliOXRmbXU3ZGh1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OsfxwbWqvIZai5vn6Y/giphy.gif"></p>
+
+<img src="https://media.giphy.com/media/CiWfp5fMCwfcyRVfig/giphy.gif?cid=ecf05e47ibvsu8aqymxze9szjeifgdcayw4z3pcwpk97ehto&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <img src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Mysterious Banner" width="600px">
 
