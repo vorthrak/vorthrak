@@ -5,7 +5,15 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;Where+Shadows+Whisper+Their+Secrets...;Embrace+the+Darkness+and+Unseen...;Let+the+Mysteries+Unfold...">
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif" width="100%">
 </p>
 
 <div align="center">
@@ -17,7 +25,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <h2 align="center">
@@ -61,11 +69,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" width="40%">
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 <h2 align="center">🔥 Eternal Markings of the Forsaken</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=dark&hide_border=true&background=0a0a0a&text_color=8A2BE2&border=8A2BE2" width="600px">
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <h2 align="center">⚔️ Trophies of the Damned</h2>
 
@@ -73,11 +89,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vorthrak&theme=dracula&no-frame=true&column=4&background=0a0a0a&color=8A2BE2" width="60%">
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 <h2 align="center">🕯️ Traces of the Forgotten</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=dracula&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" width="100%">
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <h2 align="center">💀 Echoes from the Void</h2>
 
@@ -85,11 +109,19 @@
   <img src="https://github.com/vorthrak/vorthrak/blob/output/github-snake-dark.svg" width="100%">
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 <h2 align="center">📜 The Final Whisper of the Void</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500">
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <h2 align="center">📢 Omens from the Abyss</h2>
 
@@ -101,6 +133,10 @@
     <img src="https://img.shields.io/github/followers/vorthrak?label=follow&style=social&cacheSeconds=86400">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <h2 align="center">🕸️ Unveiling the Hidden Truths</h2>
 
