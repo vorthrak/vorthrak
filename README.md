@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/TFwTq2yhQYtV3G1FOk/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/DwMoPLUvxl7adTiuAs/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/DwMoPLUvxl7adTiuAs/giphy.gif" width="500">
   <img src="https://media.giphy.com/media/CtgiDReeVqg9wEWnI4/giphy.gif" width="150">
 </div>
 
