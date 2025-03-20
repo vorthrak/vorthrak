@@ -6,7 +6,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;Where+Shadows+Whisper+Their+Secrets...;Embrace+the+Darkness+and+Unseen...;Let+the+Mysteries+Unfold...)
 
----
+<p align="center">
+  <img src="https://media.tenor.com/S2TlbsmiokQAAAAC/border-line-violet.gif" width="100%">
+</p>
 
 ## ⚰️ **Whispers from the Abyss**
 
