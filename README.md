@@ -1,9 +1,3 @@
-<form action="https://www.google.com/search" method="get">
-  <input type="text" name="q" placeholder="Cari di Google">
-  <input type="submit" value="Search">
-</form>
-
-
 &nbsp;<div align="center">
   [![Spotify](https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31szdg5zh7nbmf7ah3yfeicnnbpy)
 </div>
@@ -39,12 +33,12 @@ _Here, the eternal shadows reign, and all that you knew is now undone._
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/vorthrak/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=vorthrak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/vorthrak/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" />
       </a>
     </td>
@@ -55,7 +49,7 @@ _Here, the eternal shadows reign, and all that you knew is now undone._
 
 ## 🔥 **Eternal Markings of the Forsaken**
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://github.com/vorthrak/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=dark&hide_border=true&background=0a0a0a&text_color=8A2BE2&border=8A2BE2" alt="Vorthrak's Streak Stats" />
 </a>
 
@@ -63,7 +57,7 @@ _Here, the eternal shadows reign, and all that you knew is now undone._
 
 ## ⚔️ **Trophies of the Damned**
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/vorthrak/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=vorthrak&theme=dracula&no-frame=true&column=4&background=0a0a0a&color=8A2BE2" />
 </a>
 
@@ -71,7 +65,7 @@ _Here, the eternal shadows reign, and all that you knew is now undone._
 
 ## 🕯️ **Traces of the Forgotten**
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/vorthrak/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=dracula&hide_border=true&bg_color=0a0a0a&text_color=8A2BE2" />
 </a>
 
