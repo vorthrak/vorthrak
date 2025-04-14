@@ -126,7 +126,7 @@
 <h2 align="center">📢 Omens from the Abyss</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/?style=flat-square&color=8A2BE2">
+  <img src="https://img.shields.io/github/followers/vorthrak?style=flat-square&color=8A2BE2">
   <img src="https://img.shields.io/github/stars/vorthrak?style=flat-square&color=8A2BE2">
   <img src="https://komarev.com/ghpvc/?username=vorthrak&color=0a0a0a&style=flat-square">
   <a href="https://github.com/vorthrak">
