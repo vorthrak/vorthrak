@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Enter+the+Eternal+Void...;Where+Shadows+Whisper+Their+Secrets...;Embrace+the+Darkness+and+Unseen...;Let+the+Mysteries+Unfold...">
 
+<p align="center">
+  <img src="vorthrakbg.png" alt="Vorthrak Banner" width="100%">
+</p>
+
 <a href="https://open.spotify.com/user/31szdg5zh7nbmf7ah3yfeicnnbpy">
 <img src="https://vorthrak.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="50%">
 </a>
