@@ -59,44 +59,14 @@
   <img src="https://komarev.com/ghpvc/?username=vorthrak&color=FF073A&style=flat-square">
   <img src="https://img.shields.io/github/repo-size/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/forks/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/issues-pr/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/issues/vorthrak/vorthrak?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/issues-pr/vorthrak/vorthrak?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/issues-closed/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/contributors/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/last-commit/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/commit-activity/m/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/license/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/issues-closed/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/circleci/build/github/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/codecov/c/github/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/badge/coverage-95%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/github/issues-closed/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/badge/CI%20Status-Passing-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Build%20Status-Passing-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Tests-Passing-FF073A?style=flat-square">
-  <img src="https://img.shields.io/npm/dt/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/npm/v/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/npm/l/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/docker/pulls/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/badge/pypi%20-%23E94E77?style=flat-square&logo=pypi&logoColor=white">
-  <img src="https://img.shields.io/badge/Performance-High-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Speed-Fast-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Latency-Low-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Code%20Quality-Excellent-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Build%20Status-Passing-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained-Yes-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/CI%20Status-Passing-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/community-vibrant-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Contributors-5-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Code-95%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/JavaScript-87%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Python-12%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/C%2B%2B-1%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Go-15%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/Ruby-4%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/HTML5-10%25-FF073A?style=flat-square">
-  <img src="https://img.shields.io/badge/CSS-5%25-FF073A?style=flat-square">
   <img src="https://img.shields.io/github/languages/top/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/languages/count/vorthrak/vorthrak?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/commit-activity/w/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/issues-closed/vorthrak/vorthrak?style=flat-square&color=FF073A">
 </p>
