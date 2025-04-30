@@ -5,13 +5,6 @@
 
 <hr style="border: 1px solid #ff0000;">
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="vorthrakbg.jpg" alt="Vorthrak Banner" style="max-width: 100%; height: auto; display: block;" />
-</p>
-
-<hr style="border: 1px solid #ff0000;">
-
 <!-- Spotify & Quotes & Gif -->
 <p align="center">
   <strong>🎵 Music & Inspiration 🎭</strong>
