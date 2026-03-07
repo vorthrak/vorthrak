@@ -1,6 +1,6 @@
 <!-- Banner Animasi & Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=700&lines=I+am+Vorthrak.;Enter+if+you+dare.;The+darkness+welcomes+you." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=700&lines=I+am+izanagi.;Enter+if+you+dare.;The+darkness+welcomes+you." />
 </p>
 
 <hr style="border: 1px solid #ff0000;">
@@ -38,11 +38,11 @@
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vorthrak&show_icons=true&theme=radical&include_all_commits=true" width="100%" /><br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vorthrak&theme=radical" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=izanagii11&show_icons=true&theme=radical&include_all_commits=true" width="100%" /><br /><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=izanagii11&theme=radical" width="100%" />
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorthrak&theme=radical&langs_count=8" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanagii11&theme=radical&langs_count=8" width="100%" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vorthrak&theme=default&hide_border=true&bg_color=000000&text_color=FF0000" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izanagii11&theme=default&hide_border=true&bg_color=000000&text_color=FF0000" style="width: 100%; height: auto;" />
 </p>
 
 <hr style="border: 1px solid #ff0000;">
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vorthrak/vorthrak/blob/output/github-snake-dark.svg" style="width: 100%; height: auto;" />
+  <img src="https://github.com/izanagii11/izanagii11/blob/output/github-snake-dark.svg" style="width: 100%; height: auto;" />
 </p>
 
 <hr style="border: 1px solid #ff0000;">
@@ -80,21 +80,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/stars/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://komarev.com/ghpvc/?username=vorthrak&color=FF073A&style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/forks/vorthrak/vorthrak?style=flat-square&color=FF073A"><br><br>
-  <img src="https://img.shields.io/github/issues/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/issues-pr/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/issues-closed/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/contributors/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/last-commit/vorthrak/vorthrak?style=flat-square&color=FF073A"><br><br>
-  <img src="https://img.shields.io/github/commit-activity/m/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/license/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/languages/top/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/languages/count/vorthrak/vorthrak?style=flat-square&color=FF073A">
-  <img src="https://img.shields.io/github/commit-activity/w/vorthrak/vorthrak?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/followers/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/stars/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://komarev.com/ghpvc/?username=izanagii11&color=FF073A&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/izanagii11/izanagi111?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/forks/izanagii11/izanagii11?style=flat-square&color=FF073A"><br><br>
+  <img src="https://img.shields.io/github/issues/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/issues-pr/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/issues-closed/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/contributors/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/last-commit/izanagii11/izanagii11?style=flat-square&color=FF073A"><br><br>
+  <img src="https://img.shields.io/github/commit-activity/m/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/license/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/languages/top/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/languages/count/izanagii11/izanagii11?style=flat-square&color=FF073A">
+  <img src="https://img.shields.io/github/commit-activity/w/izanagii11/izanagii11?style=flat-square&color=FF073A">
 </p>
 
 <hr style="border: 1px solid #ff0000;">
