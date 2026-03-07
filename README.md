@@ -6,7 +6,9 @@
 
 <!-- Banner Animasi & Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=700&lines=I+am+izanagi.;Enter+if+you+dare.;The+darkness+welcomes+you." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF0033&center=true&vCenter=true&width=1000&lines=IZANAGI;WELCOME+TO+THE+CYBER+REALM;DEVOPS+%7C+CLOUD+ARCHITECT;SYSTEM+BUILDER;ENTER+IF+YOU+DARE" />
+
 </p>
 
 <hr style="border: 1px solid #ff0000;">
