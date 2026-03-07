@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=IZANAGI&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
 
 <!-- Banner Animasi & Intro -->
@@ -153,6 +155,6 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=footer"/>
 
 </p>
