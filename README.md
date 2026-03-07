@@ -1,3 +1,9 @@
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+</p>
+
 <!-- Banner Animasi & Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=700&lines=I+am+izanagi.;Enter+if+you+dare.;The+darkness+welcomes+you." />
@@ -96,5 +102,3 @@
   <img src="https://img.shields.io/github/languages/count/izanagii11/izanagii11?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/commit-activity/w/izanagii11/izanagii11?style=flat-square&color=FF073A">
 </p>
-
-<hr style="border: 1px solid #ff0000;">
