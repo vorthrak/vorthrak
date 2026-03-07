@@ -1,5 +1,3 @@
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 </p>
@@ -41,19 +39,21 @@
   <em>"A glimpse into the chaos behind the code."</em>
 </p>
 
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=izanagii11&show_icons=true&theme=radical&include_all_commits=true" width="100%" /><br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=izanagii11&theme=radical" width="100%" />
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanagii11&theme=radical&langs_count=8" width="100%" />
-    </td>
-  </tr>
+<div align="center">
+
+<table width="80%">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=izanagii11&theme=radical" width="100%" />
+
+</td>
+</tr>
 </table>
 
-<hr style="border: 1px solid #ff0000;">
+<hr style="border: 1px solid #ff0000; width:80%;">
+
+</div>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -79,6 +79,38 @@
 
 <hr style="border: 1px solid #ff0000;">
 
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/ff0000/izanagii11" alt="github chart"/>
+
+</p>
+
+---
+
+# 🏙 GitHub Skyline
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izanagii11&theme=radical"/>
+
+</p>
+
+---
+
+# 🎮 Fun Zone
+
+<p align="center">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400">
+
+</p>
+
+---
+
 <!-- Badges -->
 <p align="center">
   <strong>📛 GitHub Badges</strong><br>
@@ -101,7 +133,6 @@
   <img src="https://img.shields.io/github/languages/top/izanagii11/izanagii11?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/languages/count/izanagii11/izanagii11?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/commit-activity/w/izanagii11/izanagii11?style=flat-square&color=FF073A">
-</p>
 </p>
 
 <p align="center">
