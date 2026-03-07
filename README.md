@@ -102,3 +102,10 @@
   <img src="https://img.shields.io/github/languages/count/izanagii11/izanagii11?style=flat-square&color=FF073A">
   <img src="https://img.shields.io/github/commit-activity/w/izanagii11/izanagii11?style=flat-square&color=FF073A">
 </p>
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+
+</p>
